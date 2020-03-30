@@ -51,7 +51,7 @@ Palestrante | Twitter | Data | Assunto
 **Hector Gonçalves** | *[@HectorAGP](https://twitter.com/HectorAGP)* | *TBD* | *TBD*
 **Ismael Apolinario** | *[@iapolinario](https://twitter.com/iapolinario)* | *TBD* | *TBD*
 **Jeferson Fernando** | *[@badtux_](https://twitter.com/badtux_)* | *TBD* | *TBD*
-**João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* | *TBD* | *TBD*
+**João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* | *11/04/2020* | *TBD*
 **Julia Lamenza** | *[@jlamenza18](https://twitter.com/jlamenza18)* | *TBD* | *TBD*
 **Jérôme Petazzoni** | *[@jpetazzo](https://twitter.com/jpetazzo)* | *15/04/2020* | *TBD*
 **Loiane Groner** | *[@loiane](https://twitter.com/loiane)* | *02/04/2020* | *TBD*
